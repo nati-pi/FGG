@@ -1,0 +1,387 @@
+
+body{
+  background-color: #131030;
+  overflow-x: hidden;;
+  
+}
+.sec1{
+margin-top:-50px;
+}
+.section-1{
+  margin-top:-6px;
+  margin-right:-6px;
+  margin-left:-6px;
+  background-color:#0B0B16 ;
+}
+.cont{
+  width:100%;
+  background-color: #111F39;
+  height:50px;
+}
+.cont a{
+  color:#1900FF;
+  text-decoration:none;
+  font-size:20px;
+  margin-right:10px;
+  margin-left:19px;
+}
+.cont a:hover{
+  color:rgb(142, 176, 214)
+}
+.navigation{
+  background-color:#111F39;
+  margin-top:-16px;
+  border-color:#111F39;
+  clip-path: polygon(20% 0%, 80% 0%,100% 100%,0% 100%);
+  transform:rotateX(180deg);
+  height:60px;
+  width:60%;
+  margin-left:40px;
+}
+.navigation ul{
+  transform:rotateX(180deg);
+  margin-left:10%;
+  padding-bottom:20px;
+  width:30%;
+  margin:auto;
+
+}
+.navigation li{
+  margin-right:10%;
+}
+.navigation ul li a{
+  width:50%;
+  color:white;
+  font-size:20px;
+  margin-right:10px;
+  text-decoration: none;
+  
+  text-align: center;
+
+}
+.navigation ul{
+  display:flex;
+  text-decoration:none;
+  list-style-type: none;
+}
+.navigation a:hover{
+  color: rgb(142, 192, 221);
+}
+.sec1{
+  display:flex;
+  background-color: #0B0B16;
+  overflow: hidden;
+
+}
+.hexa{
+  text-align: center;
+  background-color:#636AC7 ;
+  color:white;
+  text-decoration: none;
+  margin-right:20px;
+  margin-left:20px;
+  padding-right:30px;
+  padding-left:30px;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%,0% 50%);
+}
+.hexa2{
+  padding-right:35px;
+  padding-left:35px;
+padding-bottom:2px;
+padding-top:2px;
+}
+.hexa3{
+padding-right:40px;
+padding-left:40px;
+}
+.box1{
+  display:flex;
+  width:50%;
+  margin:auto;
+margin-left:50px;
+  z-index: 1;
+}
+.image{
+  width:50%;
+}
+.image img{
+  right:auto;
+  border-top-left-radius: 50%;
+  border-end-end-radius: 50%;
+}
+.section-2{
+  width:80%;
+  display: flex;
+  height:280px;
+  margin:auto;
+  margin-top:-60px;
+  overflow: hidden;
+ 
+}
+.mission{
+  background-color: #111F39;
+  color:white;
+  text-align: center;
+  width:50%;
+  padding-right:30px;
+  margin-left:30px;
+}
+.mission h1{
+  font-size:45px;
+}
+.mission p{
+  font-size:20px;
+  padding-right:15px;
+  padding-left:15px;
+}
+.date{
+  background-color:#042054 ;
+  color:#D4D1EF;
+  text-align: center;
+  width:30%;
+  font-size:30px;
+}
+.datee{
+  margin-top:-25px;
+}
+.datebtn{
+  width:120px;
+  border-radius:29px;
+  color:white;
+  background-color:blue;
+  border:none;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.location-title{
+  color:white;
+  text-align:center;
+  font-size:60px;
+}
+iframe{
+  width:100%;
+  height:700px;
+}
+.section-3 h1{
+  text-align: center;
+  color:white;
+  font-size:80px;
+  overflow: hidden;
+}
+.events{
+  background-color: #646278;
+  display:flex;
+  width:100%;
+  height:600px;
+  color:white;
+  padding-right:20px;
+}
+
+.img-box img{
+  width:80%;
+padding-right:20px;
+height: auto;
+  margin:auto 20px;
+
+}
+.achievement{
+margin-left:4%;
+ width:400px;
+ height:70px;
+ font-size:35px;
+ margin-top:-39px;
+ background-color: #050D1A;
+ color:white;
+ border:none;
+height:80px;
+ clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%,0% 50%);
+
+}
+.section-4{
+  color:white;
+  display:flex;
+  margin-top:130px;
+  overflow: hidden;
+}
+.section-42{
+  width:50%;
+  height:500px;
+  background-color: #353253;
+  margin-left:40px;
+  
+}
+.section-42 h1{
+  text-align: center;
+
+}
+.flex{
+width:50%;
+overflow: hidden;
+  display:flex;
+  margin:auto;
+  margin-right: 150px;
+  margin-left:150px
+
+}
+.newdate{
+  text-align: center;
+  padding-top:60px;
+  background-color: #111F39;
+  font-size: 20px;
+  height:300px;
+width:150px;
+  margin-left:20px;
+  margin-right:20px;
+  
+}
+.newevent{
+  background-color:#08042E ;
+  border-top-left-radius: 50%;
+  border-end-end-radius: 50%;
+  padding:25px;
+  width:280px;
+  overflow: hidden;
+  
+}
+
+.contact{
+  width:40%;
+  margin-left:40px;
+  margin-top:100px;
+  text-align: center;
+}
+.footer{
+  
+  background-color:#050D1A ;
+  display:flex;
+  color:white;
+  margin:auto;
+  margin-top:100px;
+  text-align: center;
+  overflow: hidden;
+}
+.menu{
+  margin:50px;
+  font-weight: 10;
+}
+.container-box1{
+  min-width:29%;
+  height:auto;
+  margin: auto 20px;
+  padding-left:25px;
+}
+
+@media(max-width:1109px){
+    
+ .container-box1{
+    margin-right:-10px;
+ }
+}
+@media(max-width:884px){
+    .container-box1{
+      min-width:45%;
+    }
+}
+@media(max-width:811px){
+  .container-box1{
+    min-width: 100%;
+  }
+}
+@media(max-width:1153px){
+  .image img{
+      margin-left:-100px;
+  }
+}
+@media(max-width:976px){
+  .image img{
+      margin-left:-150px;
+  }
+}
+@media(max-width:811px){
+  .section-4{
+      display:block;
+      margin-right:20px;
+  }
+  .section-42{
+      width:100%;
+  }
+  .contact{
+      width:100%;
+  }
+}
+@media(max-width:800px){
+  .box1{
+    display:block;
+    margin-bottom:100px;
+  }
+  .section-2{
+    width:100%;
+    display: block;
+    height:auto;
+    margin:auto;
+    margin-top:-70px;
+    overflow: visible;
+   
+  }
+  .mission{
+    background-color: #111F39;
+    color:white;
+    text-align: center;
+    width:100%;
+    padding-right:30px;
+    margin-left:-10px;
+    padding-bottom:12px;
+    padding-top:20px;
+    padding-bottom:80px;
+  }
+  .mission h1{
+    font-size:40px;
+  }
+  .mission p{
+    font-size:19px;
+    padding-right:15px;
+    padding-left:15px;
+  }
+  .date{
+    background-color:#042054 ;
+    color:#D4D1EF;
+    text-align: center;
+    width:100%;
+    font-size:30px;
+    padding-top:10px;
+    margin-left:-10px;
+    margin-right:-70px;
+    overflow-x: hidden;
+  }
+  .datee{
+    margin-top:-25px;
+    margin-bottom:40px;
+  }
+  .datebtn{
+    width:200px;
+    border-radius:29px;
+    color:white;
+    background-color:blue;
+    border:none;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-bottom:20px;
+  }
+}
+@media(max-width:1113px){
+  .navigation{
+    height:60px;
+    width:100%;
+    margin-left:-9px;
+
+  }
+  .navigation ul{
+    transform:rotateX(180deg);
+    padding-bottom:20px;
+    width:100%;
+    margin-left:25%;
+  
+  }
+ 
+}
+
